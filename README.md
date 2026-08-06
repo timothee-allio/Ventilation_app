@@ -15,7 +15,7 @@ This application acts as a visual and mathematical bridge for building thermodyn
 
 The core equations are derived from fundamental fluid dynamics (such as Torricelli's Law) and utilize empirical coefficients characteristic of applied research on natural and hybrid ventilation systems in Nordic climates. The modeling assumptions and parameters take inspiration from studies conducted by SINTEF and prominent researchers such as Kleiven and Hestnes.
 
-```
+
 
 ## 🚀 Installation and Setup
 
