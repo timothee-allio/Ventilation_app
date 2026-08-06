@@ -1,4 +1,3 @@
-```markdown
 # Natural Ventilation Design Explorer
 
 The Natural Ventilation Design Explorer is an interactive educational web app for building physics. Students adjust window parameters to instantly visualize how wind and thermal buoyancy impact a room's air exchange rate through real-time models and heatmaps.
